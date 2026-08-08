@@ -16,12 +16,17 @@ That's what this repo is: five independent Google Sheets builds, each one solvin
 
 ## Tools Used
 
-· Google Sheets 
-· Pivot Tables 
-· Charts & Visualizations 
-· Formulas & Functions 
-· Conditional Formatting 
-· Dashboard Design
+- Google Sheets 
+
+- Pivot Tables 
+
+- Charts & Visualizations 
+
+- Formulas & Functions 
+
+- Conditional Formatting 
+
+- Dashboard Design
 
 ---
 
@@ -102,13 +107,19 @@ That's what this repo is: five independent Google Sheets builds, each one solvin
 
 ## Key Skills Demonstrated
 
-· Data Cleaning & Organization 
-· Dashboard Development 
-· Business Reporting 
-· Data Visualization 
-· Spreadsheet Automation 
-· Analytical Problem Solving 
-· Performance Monitoring
+- Data Cleaning & Organization 
+
+- Dashboard Development 
+
+- Business Reporting 
+
+- Data Visualization 
+
+- Spreadsheet Automation 
+
+- Analytical Problem Solving 
+
+- Performance Monitoring
 
 ---
 
